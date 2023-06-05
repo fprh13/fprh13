@@ -1,21 +1,46 @@
-# 조 영무(jo_young_mu)
+<div align="center">
 
-```java
-public class WhoAmI {
+# Jo Yeong mu
 
-    public static void main(String[] args) {
+</div>
 
-        System.out.println("저는 백엔드 개발자가 되기 위해 열심히 공부하고 있는 조영무입니다.");
-    }
-}
-```
+<br>
+<div align="center">
 
-#
+**🎓Education**<br><br>
+**중부대학교** 고양캠퍼스 🏫<br>
+**정보보호학과 💻**<br>
+**멋쟁이사자처럼** 11기🦁<br>
 
-✏️ **Education**
+</div>
 
-- 중부대학교 고양캠퍼스 🏫
-- 정보보호학과🎓
-- 멋쟁이사자처럼 11기🦁 - _SpringBoot part_
+<br>
+<br>
+<div align="center">
 
-_#서버개발 #JAVA #SpringBoot # Backend Developer_
+**📚Tech Stack📚**
+
+</div>
+<br>
+
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+**⚒️TOOL⚒️**
+
+</div>
+
+<br>
+
+<div align="center">
+	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
+    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+<div>
