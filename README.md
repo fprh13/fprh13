@@ -32,12 +32,13 @@
     <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
     <!-- gradle -->
     <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white" />
+    <br>
     <!-- mysql -->
      <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
      <!-- mariaDB -->
     <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
     <!-- redis -->
-    <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=[로고색]" />
+    <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white" />
     <!-- aws -->
      <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white" />
      <!-- docker -->
