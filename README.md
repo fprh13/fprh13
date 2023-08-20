@@ -29,7 +29,7 @@
     <!-- 스프링부트 -->
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
     <!-- 스프링 시큐리티 -->
-    <img src="https://img.shields.io/badge/[이름]-[색]?style=flat&logo=[이름]&logoColor=white" />
+    <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=[이름]&logoColor=white" />
     <!-- gradle -->
     <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=[이름]&logoColor=white" />
     <!-- mysql -->
