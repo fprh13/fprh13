@@ -33,7 +33,7 @@
     <!-- gradle -->
     <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white" />
      <!-- jpa -->
-    <img src="https://img.shields.io/badge/jpa-007396?style=flat&logo=jpa&logoColor=white" />
+    <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=jpa&logoColor=white" />
     <br>
     <!-- mysql -->
      <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
