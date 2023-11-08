@@ -67,3 +67,11 @@
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 <div>
+
+<!-- https://simpleicons.org/?q=redis -->
+
+<br>
+<br>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fprh13&layout=compact">
+</div>
