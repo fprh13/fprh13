@@ -10,7 +10,7 @@
 **🎓Education**<br><br>
 **중부대학교** 고양캠퍼스 🏫<br>
 **정보보호학과 💻**<br>
-**멋쟁이사자처럼** 11기🦁<br>
+**멋쟁이사자처럼** 11기~12기🦁<br>
 
 </div>
 
@@ -42,9 +42,9 @@
     <!-- redis -->
      <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white" />
     <!-- aws -->
-     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+     <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /> -->
      <!-- docker -->
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> -->
     <!-- swagger -->
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
     <!-- 기본 양식 -->
