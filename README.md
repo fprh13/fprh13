@@ -63,11 +63,12 @@
 <br>
 
 <div align="center">
+    <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=red"/>
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Discord-181717?style=flat&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-181717?style=flat&logo=discord&logoColor=pople"/>
+    <img src="https://img.shields.io/badge/IntelliJ-181717?style=flat&logo=intellijidea&logoColor=blue" />
 <div>
 
 <!-- https://simpleicons.org/?q=redis -->
