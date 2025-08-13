@@ -1,16 +1,22 @@
 <div align="center">
+  
+  <pre>░▒▓██████████████  WELCOME  ██████████████▓▒░</pre>
 
-# 👋 <br>
 
 </div>
 
 <br>
 <div align="center">
 
-**🎓Education**<br><br>
-**소프트웨어공학부 정보보호학과 💻**<br>
-**멋쟁이사자처럼 11기 🦁** <br>
-**KAKAO X GOORM DEEPDIVE 💻**<br>
+**🎓Education**
+
+</div>
+
+<div align="center">
+	
+**`소프트웨어공학부` 정보보호학과**<br>
+**`멋쟁이사자처럼` 11기** <br>
+**`KAKAO X GOORM` DEEPDIVE**<br>
 
 </div>
 
@@ -18,10 +24,9 @@
 <br>
 <div align="center">
 
-**📚Tech Stack📚**
+**📚Tech Stack**
 
 </div>
-<br>
 
 <div align="center">
     <!-- 자바 -->
@@ -56,27 +61,29 @@
 
 <div align="center">
 
-**⚒️TOOL⚒️**
+**⚒️TOOL**
 
 </div>
 
-<br>
-
 <div align="center">
-    <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=red"/>
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Discord-181717?style=flat&logo=discord&logoColor=pople"/>
-    <img src="https://img.shields.io/badge/IntelliJ-181717?style=flat&logo=intellijidea&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Discord-181717?style=flat&logo=discord&logoColor=white"/>
 <div>
 
 <!-- https://simpleicons.org/?q=redis -->
 
 <br>
 <br>
-<div align="center">
+<!-- <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fprh13&layout=compact">
 </div>
 <br>
-<br>
+<br> -->
+
+<!-- 픽셀 풋터 -->
+<div align="center">
+  <pre>░▒▓████████████████████████████████████████████▓▒░</pre>
+</div>
