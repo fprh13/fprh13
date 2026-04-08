@@ -1,28 +1,6 @@
 <div align="center">
   <img src="./assets/retro-sakura-banner.gif" width="100%" alt="레트로 벚꽃 배너" />
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/EDUCATION-F4C8D5?style=for-the-badge&logoColor=black" alt="EDUCATION" />
-</div>
-
-<div align="center">
-  <strong>소프트웨어공학부</strong> 정보보호학전공
-  <br>
-  <strong>멋쟁이사자처럼</strong> 대학
-  <br>
-  <strong>KAKAO X GOORM</strong> DEEPDIVE
-</div>
-
-<br>
-
-<div align="center">
-  <img src="./assets/retro-sakura-strip.gif" width="100%" alt="벚꽃 흩날림 장식" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/TECH_STACK-E8AFC1?style=for-the-badge&logoColor=black" alt="TECH STACK" />
 </div>
@@ -62,5 +40,19 @@
 <br>
 
 <div align="center">
-  <sub>quietly building secure and steady services</sub>
+  <img src="https://img.shields.io/badge/EDUCATION-F4C8D5?style=for-the-badge&logoColor=black" alt="EDUCATION" />
+</div>
+
+<div align="center">
+  <strong>소프트웨어공학부</strong> 정보보호학전공
+  <br>
+  <strong>멋쟁이사자처럼</strong> 대학
+  <br>
+  <strong>KAKAO X GOORM</strong> DEEPDIVE
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/retro-sakura-strip.gif" width="100%" alt="벚꽃 흩날림 장식" />
 </div>
